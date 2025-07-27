@@ -1,8 +1,4 @@
-<h1 align="center">👋 Hey, I'm Sanidhya Dwivedi!</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Computer+Science+Undergrad+at+VIT+Bhopal;AI%2FML+Enthusiast+%7C+Data+Science+Explorer+%7C+Hackathon+Winner;Full-Stack+Developer+%7C+Cybersecurity+Learner;Learning+and+Building+Every+Day!+🚀" alt="Typing SVG">
-</p>
+<h1 align="center"> Sanidhya Dwivedi!</h1>
 
 ---
 
@@ -88,6 +84,4 @@ _"Coffee ☕ + Code 💻 = Infinite Creativity!"_
 ---
 
 ### ✨ **Thanks for Visiting**
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=500&color=00FF99&center=true&vCenter=true&width=400&lines=Thanks+for+stopping+by!+😊;Happy+Coding!+🚀" alt="Typing SVG">
-</p>
+
