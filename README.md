@@ -8,7 +8,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+booting_agent.exe...;%3E+initializing+neural+core+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+AI+%2F+ML+Engineer+%7C+Full-Stack+Architect;%3E+RAG+Pipelines+%C2%B7+LLMs+%C2%B7+Computer+Vision;%3E+status%3A+building+systems+that+think+%F0%9F%A7%A0" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/sanidhyadwivedi2004/sanidhyadwivedi2004/main/assets/banner-portrait.png" width="520" style="border-radius: 20px; box-shadow: 0 0 60px rgba(0,255,209,0.45), 0 0 120px rgba(0,255,209,0.15); border: 1px solid #00FFD1;" />
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00FFD1&height=2&width=900" />
 
